@@ -1,6 +1,6 @@
-# flutter_application_2
+# Einfache Personenliste
 
-A new Flutter project.
+Flutter project 
 
 ## Getting Started
 
